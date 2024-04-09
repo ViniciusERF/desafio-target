@@ -18,11 +18,11 @@ XAMPP é um pacote com os principais servidores de código aberto do mercado, in
 Clique no botão Explorer no lado direito da janela para abrir um navegador de arquivos diretamente para a pasta XAMPP. Adicione a pasta do projeto neste diretório.
 
 ### 3 - Inicializando o Apache
-![XAMPP](./img/xampp.png)
+![XAMPP](./img/xampp.jpeg)
 Após encaminhar o projeto até o diretório "htdocs", de um Start (Iniciar) no Apache.
 
 ### 4 - Acessando servidor local #
-![XAMPP](./img/localhost.png)
+![XAMPP](./img/localhost.jpeg)
 Nessa etapa há duas maneiras de visualizarmos o projeto.
 
 - Clicar em "Admin" ao lado do botão Start do Apache, e substituir essa URL "http://localhost/dashboard/" por essa "http://localhost/pwii/index.php"
